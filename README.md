@@ -1,2 +1,2 @@
 # xiecheng_lost_prob_competition
-携程酒店流失率预测比赛
+携程酒店流失率预测比赛rank5，这是baseline代码，后期还会更新。
